@@ -2,7 +2,7 @@
 
 ## Misinformation tweets
 
-File: [misinformation_tweets_info_annotated.csv](https://github.com/Gautamshahi/RussoUkraine2022/blob/main/misinformation_tweets_info_annotated.csv), some of the columns are described below.
+File: [misinformation_tweets_info.tsv](https://github.com/Gautamshahi/RussoUkraine2022/blob/main/misinformation_tweets_info.tsv), some of the columns are described below.
 
 - id: tweet ID
 - twitter_link: link to the tweet
