@@ -24,6 +24,7 @@ File: [misinformation_retweets.csv.gz](https://github.com/Gautamshahi/RussoUkrai
 ## Search keywords for Fact-checked articles
 
 The list of search keywords extracted from the Wikinews categories are as follows:
+
 russian invasion of ukraine, russian invasion, invasion of ukraine, russo-ukrainian war, ukrainian war, controversies, international relations, russia, ukraine, europe, military history, military, military history of russia, history of russia, conflicts, invasions by russia, invasions russia, invasions, invasions of ukraine, opposition to nato, nato, conflicts in territory of the former soviet union, soviet union, former soviet union, russian irredentism, irredentism, russian–ukrainian wars, belarus–nato relations, belarus, belarus–ukraine relations, russia–nato relations, ukraine–nato relations, russia–nato, russia nato, ukraine nato, ukraine–nato, vladimir putin, putin, vladimir, volodymyr zelenskyy, volodymyr, zelenskyy, alexander lukashenko, alexander, lukashenko, wars involving belarus, wars involving Chechnya, wars involving russia, wars involving the donetsk people republic, wars involving the luhansk people republic, wars involving ukraine, donetsk, luhansk
 
 ## Search keywords for Tweets
